@@ -21,7 +21,7 @@ public class Main extends Application {
 	@Override
 	public void start(Stage arg0) throws Exception {
 		Stage stage1 = new Stage();
-		stage1.setTitle("App");
+		stage1.setTitle("Application");
 		
 		//Scene1
 		GridPane layout1 = new GridPane();
